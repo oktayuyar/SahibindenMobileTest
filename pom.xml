@@ -5,7 +5,6 @@
   <groupId>com.oktay.test</groupId>
   <artifactId>SahibindenMobileTest</artifactId>
   <version>1.0-SNAPSHOT</version>
-  <packaging>jar</packaging>
 
   <name>Appium</name>
   <url>http://maven.apache.org</url>
