@@ -12,13 +12,10 @@
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-
     <!-- Appium -->
-    <appium.version>4.1.2</appium.version>
-
+    <appium.version>5.0.4</appium.version>
     <!-- Test -->
     <junit.version>4.12</junit.version>
-
   </properties>
 
   <dependencies>
