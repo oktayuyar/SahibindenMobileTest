@@ -1,3 +1,3 @@
 # SahibindenMobileTest
 
-"sahibinden.com" İçin Appium Kullanılarak Yazılan Testler
+"sahibinden.com" mobil test otomasyon projesi
